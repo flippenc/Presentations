@@ -50,9 +50,8 @@
 
 -   The research from this project was published in The Journal of Knot
     Theory and Its Ramifications in 2021. This paper is available on
-    arXiv [\[arXiv\]](https://arxiv.org/abs/2102.05243) and the final
-    publication is available here
-    [\[doi\]](https://doi.org/10.1142/S0218216521500371)
+    arXiv [here](https://arxiv.org/abs/2102.05243) and the final
+    publication is available [here](https://doi.org/10.1142/S0218216521500371)
 
 **Knots and Links in 3-Manifolds:**
 
@@ -62,6 +61,5 @@
 
 -   The research from this project was published in The Journal of Knot
     Theory and Its Ramifications in 2021. This paper is available on
-    arXiv [\[arXiv\]](https://arxiv.org/abs/2102.05243) and the final
-    publication is available here
-    [\[doi\]](https://doi.org/10.1142/S0218216521500371)
+    arXiv [here](https://arxiv.org/abs/2102.05243) and the final
+    publication is available [here](https://doi.org/10.1142/S0218216521500371)
